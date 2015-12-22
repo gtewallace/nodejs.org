@@ -7,6 +7,8 @@ layout: foundation.hbs
 To request information on joining the Node.js Foundation, please email
 [membership@nodejs.org](mailto:membership@nodejs.org).
 
+Node.js Foundation Memberships is open to businesses and individuals. 
+
 ## Platinum
 
 <div style="text-align:center;">
